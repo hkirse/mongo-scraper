@@ -1,0 +1,73 @@
+.headline:link    {
+    text-decoration:  none;
+    font-weight:      bold;
+    color:            white;
+    } 
+  .headline:visited {
+    text-decoration:  none;
+    font-weight:      bold;
+    color:            white;
+    } 
+  .headline:hover   {
+    text-decoration:  underline;
+    font-weight:      bold;
+    color: white;
+    } 
+  .headline:active  {
+    text-decoration:  underline;
+    font-weight:      bold;
+    color: white;
+    } 
+  
+  .jumbotron {
+      background-image: url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/1064553/300/200/m1/fpc/wm0/igims6hucce6aswt9wadumhizclnccuxpjil0phzrh2andvolze2hmliggqbpelp-.jpg?1457385647&s=39e77ab0edf9e64f127bfbbe99037a57");
+      color: white;
+      height: 400px;
+  }
+  
+  .top-title {
+      margin-top: 100px;
+  }
+  
+  .sub-title {
+      font-family: "Times New Roman", Times, serif;
+      font-size: 50px;
+  }
+  
+  .empty-articles {
+      background-color: orange;
+      padding: 0px;
+      height: 100px;
+      border-style: solid;
+      border-color: white;
+      border-width: 10px;
+  }
+  
+  .modal-header {
+      background-color: #428bca;
+      color: white;
+  }
+  
+  .comment-box {
+      width: 100%;
+      height: 100px;
+  }
+  
+  .comment {
+      color: #428bca;
+      width: 100%;
+      margin-bottom: 15px;
+      font-size: 16px;
+      word-wrap: break-word;
+  }
+  
+  .deletecomment {
+      color: black;
+      float: right;
+      margin-right: 5px;
+  }
+  
+  .close {
+      color: white;
+      opacity: 1;
+  }
